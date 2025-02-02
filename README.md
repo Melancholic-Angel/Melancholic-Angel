@@ -1,4 +1,4 @@
-## Hello
+## Hello!
 
 Um just exploring & learning GitHub:)
 - Mechanical/Mechatronics Engineering Undergraduate
